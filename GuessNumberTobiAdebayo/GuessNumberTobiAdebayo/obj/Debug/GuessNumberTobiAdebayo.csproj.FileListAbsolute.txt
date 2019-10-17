@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\bin\Debug\GuessNumberTobiAdebayo.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\bin\Debug\GuessNumberTobiAdebayo.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\bin\Debug\GuessNumberTobiAdebayo.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.frmGuessNumber.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\GuessNumberTobiAdebayo\GuessNumberTobiAdebayo\obj\Debug\GuessNumberTobiAdebayo.pdb
