@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\Ra
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\bin\Debug\RandomNumberTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\bin\Debug\RandomNumberTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\bin\Debug\RandomNumberTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.frmRandomNumberUpdated.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\RandomNumberTobi\RandomNumberTobi\obj\Debug\RandomNumberTobi.pdb

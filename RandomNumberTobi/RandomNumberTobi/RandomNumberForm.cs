@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Tobi Adebayo
+ * Created on: 24-10-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #17 - Radom number
+ * This program generates a random number and asks the user to guess the number
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,6 +24,12 @@ namespace RandomNumberTobi
             InitializeComponent();
             //Hide the label
             lblAnswer.Hide();
+        }
+
+        private void BtnCheck_Click(object sender, EventArgs e)
+        {
+            //Show the label
+            lblAnswer.Show();
 
             //Declare local variables
             const int MIN_NUM = 1;
@@ -26,7 +39,7 @@ namespace RandomNumberTobi
             Random randomnumberGenerator = new Random();
 
             //Get the random number
-            aRandomNumber = randomnumberGenerator.Next(MIN_NUM, MAX_NUM+1);
+            aRandomNumber = randomnumberGenerator.Next(MIN_NUM, MAX_NUM + 1);
 
             //Assign to a label
             lblAnswer.Text = Convert.ToString(aRandomNumber);
@@ -35,7 +48,7 @@ namespace RandomNumberTobi
 
 
             //If the number guessed is correct or wrong
-            if(aRandomNumber==usernumber)
+            if (aRandomNumber == usernumber)
             {
                 this.lblAnswer.Text = "You guessed correctly!";
             }
@@ -43,19 +56,6 @@ namespace RandomNumberTobi
             {
                 this.lblAnswer.Text = "Sorry, try again.";
             }
-
-
-              
-
-            
-                
-                
-        }
-
-        private void BtnCheck_Click(object sender, EventArgs e)
-        {
-            //Show the label
-            lblAnswer.Show();
 
 
         }
