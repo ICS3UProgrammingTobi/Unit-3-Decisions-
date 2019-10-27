@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.frmWalkingMan.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.pdb
