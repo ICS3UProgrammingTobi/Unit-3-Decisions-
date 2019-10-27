@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\bin\Debug\Rock,Paper,Scissors.Tobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\bin\Debug\Rock,Paper,Scissors.Tobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\bin\Debug\Rock,Paper,Scissors.Tobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock,Paper,Scissors.Tobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock_Paper_Scissors.Tobi.frmRockPaperScissors.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock_Paper_Scissors.Tobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock,Paper,Scissors.Tobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock,Paper,Scissors.Tobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\Rock,Paper,Scissors.Tobi\Rock,Paper,Scissors.Tobi\obj\Debug\Rock,Paper,Scissors.Tobi.pdb

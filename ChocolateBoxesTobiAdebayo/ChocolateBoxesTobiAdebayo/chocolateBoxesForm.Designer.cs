@@ -40,7 +40,7 @@
             this.lblBoxes.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBoxes.Location = new System.Drawing.Point(12, 71);
             this.lblBoxes.Name = "lblBoxes";
-            this.lblBoxes.Size = new System.Drawing.Size(427, 31);
+            this.lblBoxes.Size = new System.Drawing.Size(527, 39);
             this.lblBoxes.TabIndex = 0;
             this.lblBoxes.Text = "Enter the number of boxes sold:";
             this.lblBoxes.Click += new System.EventHandler(this.LblBoxes_Click);
@@ -49,17 +49,17 @@
             // 
             this.lblReward.AutoSize = true;
             this.lblReward.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblReward.Location = new System.Drawing.Point(206, 215);
+            this.lblReward.Location = new System.Drawing.Point(99, 213);
             this.lblReward.Name = "lblReward";
-            this.lblReward.Size = new System.Drawing.Size(92, 31);
+            this.lblReward.Size = new System.Drawing.Size(115, 39);
             this.lblReward.TabIndex = 1;
             this.lblReward.Text = "label2";
             // 
             // txtNumberOfBoxes
             // 
-            this.txtNumberOfBoxes.Location = new System.Drawing.Point(471, 82);
+            this.txtNumberOfBoxes.Location = new System.Drawing.Point(562, 87);
             this.txtNumberOfBoxes.Name = "txtNumberOfBoxes";
-            this.txtNumberOfBoxes.Size = new System.Drawing.Size(110, 20);
+            this.txtNumberOfBoxes.Size = new System.Drawing.Size(117, 22);
             this.txtNumberOfBoxes.TabIndex = 2;
             // 
             // btnGetReward
@@ -67,21 +67,22 @@
             this.btnGetReward.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGetReward.Location = new System.Drawing.Point(471, 137);
             this.btnGetReward.Name = "btnGetReward";
-            this.btnGetReward.Size = new System.Drawing.Size(110, 27);
+            this.btnGetReward.Size = new System.Drawing.Size(138, 42);
             this.btnGetReward.TabIndex = 3;
             this.btnGetReward.Text = "Get reward";
             this.btnGetReward.UseVisualStyleBackColor = true;
+            this.btnGetReward.Click += new System.EventHandler(this.btnGetReward_Click);
             // 
             // frmChocolateBoxes
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(614, 287);
+            this.ClientSize = new System.Drawing.Size(715, 367);
             this.Controls.Add(this.btnGetReward);
             this.Controls.Add(this.txtNumberOfBoxes);
             this.Controls.Add(this.lblReward);
             this.Controls.Add(this.lblBoxes);
             this.Name = "frmChocolateBoxes";
-            this.Text = "Chocolate Boxes";
+            this.Text = "Chocolate Boxes Tobi";
             this.ResumeLayout(false);
             this.PerformLayout();
 

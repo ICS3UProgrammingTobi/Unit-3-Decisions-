@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\bin\Debug\ChocolateBoxesTobiAdebayo.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\bin\Debug\ChocolateBoxesTobiAdebayo.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\bin\Debug\ChocolateBoxesTobiAdebayo.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.frmChocolateBoxes.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesTobiAdebayo\ChocolateBoxesTobiAdebayo\obj\Debug\ChocolateBoxesTobiAdebayo.pdb

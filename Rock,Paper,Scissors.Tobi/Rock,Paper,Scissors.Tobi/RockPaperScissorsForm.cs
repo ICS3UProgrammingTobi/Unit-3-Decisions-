@@ -36,5 +36,50 @@ namespace Rock_Paper_Scissors.Tobi
         {
 
         }
+
+        private void btnPlay_Click(object sender, EventArgs e)
+        {
+            // declare local variables and constants
+            int playerChoice, computerChoice;
+            const int ROCK = 1;
+            const int PAPER = 2;
+            const int SCISSORS = 3;
+            const int MIN_VALUE = 1;
+            const int MAX_VALUE = 3;
+
+            // get the user's Choice, if there is no selection set it to 0
+            if (radPlayerRock.Checked == true)
+            {
+                playerChoice = ROCK;
+            }
+            else if (radPlayerPaper.Checked == true)
+            {
+                playerChoice = PAPER;
+            }
+            else if (radPlayerScissors.Checked == true)
+            {
+                playerChoice = SCISSORS;
+            }
+            else
+            {
+                playerChoice = 0;
+            }
+            // randomly generate a number representatng cpu choice
+            computerChoice = randomNumberGenerator.Next(MIN_VALUE, MAX_VALUE + 1);
+
+            // set the radio button for the computer
+            if (computerChoice == ROCK)
+            {
+                this.radComputerRock.Checked = true;
+            }
+            else if (computerChoice == PAPER)
+            {
+                this.radComputerPaper.Checked = true;
+            }
+            else
+            {
+                this.radComputerScissors.Checked = true;
+            }
+        }
     }
 }

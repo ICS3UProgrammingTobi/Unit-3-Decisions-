@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\bin\Debug\FactorialDoWhileTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\bin\Debug\FactorialDoWhileTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\bin\Debug\FactorialDoWhileTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.frmFactorialDoWhle.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileTobi\FactorialDoWhileTobi\obj\Debug\FactorialDoWhileTobi.pdb

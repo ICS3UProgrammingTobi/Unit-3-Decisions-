@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.grbPlayer = new System.Windows.Forms.GroupBox();
+            this.radPlayerScissors = new System.Windows.Forms.RadioButton();
+            this.radPlayerPaper = new System.Windows.Forms.RadioButton();
+            this.radPlayerRock = new System.Windows.Forms.RadioButton();
             this.grbComputer = new System.Windows.Forms.GroupBox();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.radComputerScissors = new System.Windows.Forms.RadioButton();
+            this.radComputerPaper = new System.Windows.Forms.RadioButton();
+            this.radComputerRock = new System.Windows.Forms.RadioButton();
             this.btnPlay = new System.Windows.Forms.Button();
             this.grbPlayer.SuspendLayout();
             this.grbComputer.SuspendLayout();
@@ -43,111 +43,124 @@
             // 
             // grbPlayer
             // 
-            this.grbPlayer.Controls.Add(this.radioButton3);
-            this.grbPlayer.Controls.Add(this.radioButton2);
-            this.grbPlayer.Controls.Add(this.radioButton1);
-            this.grbPlayer.Location = new System.Drawing.Point(36, 22);
+            this.grbPlayer.Controls.Add(this.radPlayerScissors);
+            this.grbPlayer.Controls.Add(this.radPlayerPaper);
+            this.grbPlayer.Controls.Add(this.radPlayerRock);
+            this.grbPlayer.Location = new System.Drawing.Point(48, 27);
+            this.grbPlayer.Margin = new System.Windows.Forms.Padding(4);
             this.grbPlayer.Name = "grbPlayer";
-            this.grbPlayer.Size = new System.Drawing.Size(207, 165);
+            this.grbPlayer.Padding = new System.Windows.Forms.Padding(4);
+            this.grbPlayer.Size = new System.Drawing.Size(276, 203);
             this.grbPlayer.TabIndex = 0;
             this.grbPlayer.TabStop = false;
             this.grbPlayer.Text = "Player\'s Choice";
             // 
+            // radPlayerScissors
+            // 
+            this.radPlayerScissors.AutoSize = true;
+            this.radPlayerScissors.Location = new System.Drawing.Point(39, 159);
+            this.radPlayerScissors.Margin = new System.Windows.Forms.Padding(4);
+            this.radPlayerScissors.Name = "radPlayerScissors";
+            this.radPlayerScissors.Size = new System.Drawing.Size(82, 21);
+            this.radPlayerScissors.TabIndex = 2;
+            this.radPlayerScissors.TabStop = true;
+            this.radPlayerScissors.Text = "Scissors";
+            this.radPlayerScissors.UseVisualStyleBackColor = true;
+            // 
+            // radPlayerPaper
+            // 
+            this.radPlayerPaper.AutoSize = true;
+            this.radPlayerPaper.Location = new System.Drawing.Point(39, 110);
+            this.radPlayerPaper.Margin = new System.Windows.Forms.Padding(4);
+            this.radPlayerPaper.Name = "radPlayerPaper";
+            this.radPlayerPaper.Size = new System.Drawing.Size(67, 21);
+            this.radPlayerPaper.TabIndex = 1;
+            this.radPlayerPaper.TabStop = true;
+            this.radPlayerPaper.Text = "Paper";
+            this.radPlayerPaper.UseVisualStyleBackColor = true;
+            // 
+            // radPlayerRock
+            // 
+            this.radPlayerRock.AutoSize = true;
+            this.radPlayerRock.Location = new System.Drawing.Point(39, 59);
+            this.radPlayerRock.Margin = new System.Windows.Forms.Padding(4);
+            this.radPlayerRock.Name = "radPlayerRock";
+            this.radPlayerRock.Size = new System.Drawing.Size(61, 21);
+            this.radPlayerRock.TabIndex = 0;
+            this.radPlayerRock.TabStop = true;
+            this.radPlayerRock.Text = "Rock";
+            this.radPlayerRock.UseVisualStyleBackColor = true;
+            // 
             // grbComputer
             // 
-            this.grbComputer.Controls.Add(this.radioButton6);
-            this.grbComputer.Controls.Add(this.radioButton5);
-            this.grbComputer.Controls.Add(this.radioButton4);
-            this.grbComputer.Location = new System.Drawing.Point(36, 206);
+            this.grbComputer.Controls.Add(this.radComputerScissors);
+            this.grbComputer.Controls.Add(this.radComputerPaper);
+            this.grbComputer.Controls.Add(this.radComputerRock);
+            this.grbComputer.Location = new System.Drawing.Point(48, 254);
+            this.grbComputer.Margin = new System.Windows.Forms.Padding(4);
             this.grbComputer.Name = "grbComputer";
-            this.grbComputer.Size = new System.Drawing.Size(207, 183);
+            this.grbComputer.Padding = new System.Windows.Forms.Padding(4);
+            this.grbComputer.Size = new System.Drawing.Size(276, 225);
             this.grbComputer.TabIndex = 1;
             this.grbComputer.TabStop = false;
             this.grbComputer.Text = "Computer\'s Choice";
             // 
-            // radioButton1
+            // radComputerScissors
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(29, 48);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(85, 17);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radComputerScissors.AutoSize = true;
+            this.radComputerScissors.Location = new System.Drawing.Point(44, 164);
+            this.radComputerScissors.Margin = new System.Windows.Forms.Padding(4);
+            this.radComputerScissors.Name = "radComputerScissors";
+            this.radComputerScissors.Size = new System.Drawing.Size(82, 21);
+            this.radComputerScissors.TabIndex = 2;
+            this.radComputerScissors.TabStop = true;
+            this.radComputerScissors.Text = "Scissors";
+            this.radComputerScissors.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // radComputerPaper
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(29, 89);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(85, 17);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "radioButton2";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radComputerPaper.AutoSize = true;
+            this.radComputerPaper.Location = new System.Drawing.Point(44, 105);
+            this.radComputerPaper.Margin = new System.Windows.Forms.Padding(4);
+            this.radComputerPaper.Name = "radComputerPaper";
+            this.radComputerPaper.Size = new System.Drawing.Size(67, 21);
+            this.radComputerPaper.TabIndex = 1;
+            this.radComputerPaper.TabStop = true;
+            this.radComputerPaper.Text = "Paper";
+            this.radComputerPaper.UseVisualStyleBackColor = true;
             // 
-            // radioButton3
+            // radComputerRock
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(29, 129);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(85, 17);
-            this.radioButton3.TabIndex = 2;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "radioButton3";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            // 
-            // radioButton4
-            // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(33, 39);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(85, 17);
-            this.radioButton4.TabIndex = 0;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "radioButton4";
-            this.radioButton4.UseVisualStyleBackColor = true;
-            // 
-            // radioButton5
-            // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(33, 85);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(85, 17);
-            this.radioButton5.TabIndex = 1;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "radioButton5";
-            this.radioButton5.UseVisualStyleBackColor = true;
-            // 
-            // radioButton6
-            // 
-            this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(33, 133);
-            this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(85, 17);
-            this.radioButton6.TabIndex = 2;
-            this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "radioButton6";
-            this.radioButton6.UseVisualStyleBackColor = true;
+            this.radComputerRock.AutoSize = true;
+            this.radComputerRock.Location = new System.Drawing.Point(44, 48);
+            this.radComputerRock.Margin = new System.Windows.Forms.Padding(4);
+            this.radComputerRock.Name = "radComputerRock";
+            this.radComputerRock.Size = new System.Drawing.Size(61, 21);
+            this.radComputerRock.TabIndex = 0;
+            this.radComputerRock.TabStop = true;
+            this.radComputerRock.Text = "Rock";
+            this.radComputerRock.UseVisualStyleBackColor = true;
             // 
             // btnPlay
             // 
-            this.btnPlay.Location = new System.Drawing.Point(36, 395);
+            this.btnPlay.Location = new System.Drawing.Point(48, 486);
+            this.btnPlay.Margin = new System.Windows.Forms.Padding(4);
             this.btnPlay.Name = "btnPlay";
-            this.btnPlay.Size = new System.Drawing.Size(75, 23);
+            this.btnPlay.Size = new System.Drawing.Size(100, 28);
             this.btnPlay.TabIndex = 2;
             this.btnPlay.Text = "Play";
             this.btnPlay.UseVisualStyleBackColor = true;
+            this.btnPlay.Click += new System.EventHandler(this.btnPlay_Click);
             // 
             // frmRockPaperScissors
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(314, 450);
+            this.ClientSize = new System.Drawing.Size(419, 554);
             this.Controls.Add(this.btnPlay);
             this.Controls.Add(this.grbComputer);
             this.Controls.Add(this.grbPlayer);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmRockPaperScissors";
             this.Text = "Rock, Paper, Scissors Tobi";
             this.Load += new System.EventHandler(this.FrmRockPaperScissors_Load);
@@ -163,12 +176,12 @@
 
         private System.Windows.Forms.GroupBox grbPlayer;
         private System.Windows.Forms.GroupBox grbComputer;
-        private System.Windows.Forms.RadioButton radioButton3;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton6;
-        private System.Windows.Forms.RadioButton radioButton5;
-        private System.Windows.Forms.RadioButton radioButton4;
+        private System.Windows.Forms.RadioButton radPlayerScissors;
+        private System.Windows.Forms.RadioButton radPlayerPaper;
+        private System.Windows.Forms.RadioButton radPlayerRock;
+        private System.Windows.Forms.RadioButton radComputerScissors;
+        private System.Windows.Forms.RadioButton radComputerPaper;
+        private System.Windows.Forms.RadioButton radComputerRock;
         private System.Windows.Forms.Button btnPlay;
     }
 }
