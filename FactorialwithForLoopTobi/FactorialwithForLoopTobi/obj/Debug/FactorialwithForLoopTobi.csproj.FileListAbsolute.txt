@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\bin\Debug\FactorialwithForLoopTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\bin\Debug\FactorialwithForLoopTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\bin\Debug\FactorialwithForLoopTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.frmFactorialWithForLoop.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\FactorialwithForLoopTobi\FactorialwithForLoopTobi\obj\Debug\FactorialwithForLoopTobi.pdb
