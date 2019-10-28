@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\bin\Debug\UnicodeTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\bin\Debug\UnicodeTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\bin\Debug\UnicodeTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.frmUnicode.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\UnicodeTobi\UnicodeTobi\obj\Debug\UnicodeTobi.pdb
