@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\bin\Debug\PerfectSquaresWithWhileLoopTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\bin\Debug\PerfectSquaresWithWhileLoopTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\bin\Debug\PerfectSquaresWithWhileLoopTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.frmPerfectSquaresWithWhileLoop.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\PerfectSquaresWithWhileLoopTobi\PerfectSquaresWithWhileLoopTobi\obj\Debug\PerfectSquaresWithWhileLoopTobi.pdb
