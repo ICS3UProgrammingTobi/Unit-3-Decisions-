@@ -1,0 +1,9 @@
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\bin\Debug\ForEachwithControlObjectsTobi.exe.config
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\bin\Debug\ForEachwithControlObjectsTobi.exe
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\bin\Debug\ForEachwithControlObjectsTobi.pdb
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.frmForEachWithControlObjects.resources
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.Properties.Resources.resources
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.exe
+C:\Users\Tobi\source\repos\ForEachwithControlObjectsTobi\ForEachwithControlObjectsTobi\obj\Debug\ForEachwithControlObjectsTobi.pdb
