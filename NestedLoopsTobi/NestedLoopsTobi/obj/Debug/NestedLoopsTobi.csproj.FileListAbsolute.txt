@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.frmNestedLoops.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.pdb
