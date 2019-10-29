@@ -7,3 +7,13 @@ C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTo
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csproj.GenerateResource.cache
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.exe
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\bin\Debug\NestedLoopsTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.frmNestedLoops.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\NestedLoopsTobi\NestedLoopsTobi\obj\Debug\NestedLoopsTobi.pdb
