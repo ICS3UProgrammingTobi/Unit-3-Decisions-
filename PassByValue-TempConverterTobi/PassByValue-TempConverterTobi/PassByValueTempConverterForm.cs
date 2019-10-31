@@ -22,8 +22,21 @@ namespace PassByValue_TempConverterTobi
         public frmPassByValueTempConverter()
         {
             InitializeComponent();
+
         }
-        public void ConvertTofar(double celsius, double farenheit);
+        public void ConvertTofar(double celsius)
+        {
+            //declare local variables
+            double fahrenheit;
+
+            // convert the celsius to fahrenheit
+            fahrenheit = celsius * (Double)9 / (Double)5 + 32;
+
+            //display a message box with the answer
+            MessageBox.Show(celsius + " degrees celsius" + " = " + fahrenheit + " degrees fahrenheit");
+        }
+
+
 
         private void Frm_Load(object sender, EventArgs e)
         {
@@ -32,7 +45,14 @@ namespace PassByValue_TempConverterTobi
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            //declare local variables
+            double UserCelsius;
 
+            //convert the input celsius to double and assign to variable
+            UserCelsius = Convert.ToDouble(this.txtCelsius.Text);
+
+            //call the function to convert from celsius to fahrenheit 
+            this.ConvertTofar(UserCelsius);
         }
     }
 }
