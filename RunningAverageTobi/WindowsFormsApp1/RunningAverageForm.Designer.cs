@@ -94,6 +94,7 @@
             this.Controls.Add(this.lblNumber);
             this.Name = "frmRunningAverage";
             this.Text = "Running Average Tobi";
+            this.Load += new System.EventHandler(this.frmRunningAverage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
