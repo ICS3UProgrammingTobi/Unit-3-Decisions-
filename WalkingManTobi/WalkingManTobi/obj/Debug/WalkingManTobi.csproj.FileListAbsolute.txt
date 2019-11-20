@@ -7,3 +7,13 @@ C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTob
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csproj.GenerateResource.cache
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.exe
 C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-3-Decisions-\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\bin\Debug\WalkingManTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.frmWalkingMan.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\WalkingManTobi\WalkingManTobi\obj\Debug\WalkingManTobi.pdb

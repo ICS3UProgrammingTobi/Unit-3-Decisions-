@@ -87,5 +87,10 @@ namespace WalkingManTobi
                 Thread.Sleep(100);
             }
         }
+
+        private void FrmWalkingMan_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

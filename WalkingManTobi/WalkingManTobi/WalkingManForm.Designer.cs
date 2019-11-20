@@ -35,9 +35,10 @@
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(87, 55);
+            this.btnStart.Location = new System.Drawing.Point(65, 45);
+            this.btnStart.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(173, 38);
+            this.btnStart.Size = new System.Drawing.Size(130, 31);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -46,7 +47,8 @@
             // picWalkingMan
             // 
             this.picWalkingMan.Image = global::WalkingManTobi.Properties.Resources.walk9;
-            this.picWalkingMan.Location = new System.Drawing.Point(87, 142);
+            this.picWalkingMan.Location = new System.Drawing.Point(65, 115);
+            this.picWalkingMan.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picWalkingMan.Name = "picWalkingMan";
             this.picWalkingMan.Size = new System.Drawing.Size(180, 180);
             this.picWalkingMan.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -55,13 +57,15 @@
             // 
             // frmWalkingMan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(355, 450);
+            this.ClientSize = new System.Drawing.Size(266, 366);
             this.Controls.Add(this.picWalkingMan);
             this.Controls.Add(this.btnStart);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmWalkingMan";
             this.Text = "Walking Man Tobi";
+            this.Load += new System.EventHandler(this.FrmWalkingMan_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picWalkingMan)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
